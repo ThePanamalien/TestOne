@@ -6,7 +6,11 @@ ___
 <nav>
 <ul>
 {% for pages in site.pages %}
-<li><a href="{{ pages.url }}">{{ pages.title }}</a></li>
+<li>
+  <a href="{{ pages.url | prepend: site.baseurl }}">
+   <h2>{{ pages.title }}</h2>
+  </a>
+  </li>
 {% endfor %}
 </ul>
 </nav>
