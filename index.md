@@ -6,5 +6,5 @@ ___
 ___
 
 {% for glossary_pages in site.glossary_pages %}
-  <p>{{ staff_member.content | markdownify }}</p>
+  <p>{{ glossary_pages.content | markdownify }}</p>
 {% endfor %}
