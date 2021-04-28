@@ -4,6 +4,6 @@ theme: jekyll-theme-slate
 collections:
   pages:
   output: true
-  permalink: /:pages/:title/
+  permalink: /:pages/:title
   
   
