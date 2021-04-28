@@ -8,7 +8,7 @@ ___
 {% for pages in site.pages %}
 <li>
   <a href="{{ pages.url | prepend: site.baseurl }}">
-   <h2>{{ pages.title }}</h2>
+   <h4>{{ pages.title }}</h4>
   </a>
   </li>
 {% endfor %}
