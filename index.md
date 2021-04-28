@@ -6,8 +6,7 @@ ___
 <nav>
 <ul>
 {% for pages in site.pages %}
-<li>
-<a href=”{{site.baseurl}}/pages/{{pages.folder}}/”>{{pages.title}}</a>
+<li><a href="{{ pages.url }}"> {{ pages.title }} </a></li>
 </li>
 {% endfor %}
 </ul>
