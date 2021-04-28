@@ -3,6 +3,6 @@ theme: jekyll-theme-slate
 
 collections:
   pages:
-  output: true
+   output: true
   
   
