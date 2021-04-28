@@ -1,6 +1,18 @@
 # Testing Site - Carlos.P
 ___
 
+<strong>Glossary</strong>
+
+<nav>
+<ul>
+{% for pages in site.pages %}
+<li>
+<a href=”{{site.baseurl}}/pages/{{pages.folder}}/”>{{pages.title}}</a>
+</li>
+{% endfor %}
+</ul>
+</nav>
+
 
 ## Content to go below this point.
 ___
