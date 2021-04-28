@@ -1,5 +1,5 @@
 ---
-title: Section B
+title: B
 ---
 
 # **B:** 
