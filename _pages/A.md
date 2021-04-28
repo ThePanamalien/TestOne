@@ -1,5 +1,5 @@
 ---
-title: A.md
+title: A
 ---
 
 # **A:**
