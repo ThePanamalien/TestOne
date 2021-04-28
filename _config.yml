@@ -2,4 +2,6 @@ theme: jekyll-theme-slate
 
 
 collections:
-  - glossary_pages
+  glossary_pages
+  output: true
+  
