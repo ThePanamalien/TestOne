@@ -2,8 +2,8 @@ theme: jekyll-theme-slate
 
 
 collections:
-  glossary_pages
+  pages
   output: true
-  permalink: /glossary_pages/:path/
+  permalink: /pages/:path/
   
   
