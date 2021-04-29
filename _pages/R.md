@@ -1,5 +1,5 @@
 ---
-title: S
+title: R
 layout: glossaryPage
 ---
 
