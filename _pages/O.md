@@ -1,5 +1,6 @@
 ---
 title: O
+layout: glossaryPage
 ---
 
 # **O:** 
