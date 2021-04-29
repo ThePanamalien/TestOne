@@ -1,5 +1,6 @@
 ---
 title: G
+layout: glossaryPage
 ---
 
 
