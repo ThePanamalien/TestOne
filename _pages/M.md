@@ -1,5 +1,6 @@
 ---
 title: M
+layout: glossaryPage
 ---
 
 # **M:** 
