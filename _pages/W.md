@@ -1,5 +1,6 @@
 ---
 title: W
+layout: glossaryPage
 ---
 # **W:** 
 ___
