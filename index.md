@@ -47,9 +47,7 @@ li a:hover {
 </nav>
 
 
-## Content to go below this point.
+## Alaska Region Glossary Homepage.
 ___
 
-{% for pages in site.pages %}
-  <p>{{ pages.content | markdownify }}</p>
-{% endfor %}
+
