@@ -1,3 +1,8 @@
+---
+title: Home
+layout: glossaryPage
+---
+
 # Testing Site - Carlos.P
 ___
 
