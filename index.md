@@ -15,7 +15,8 @@ The DST will attempt to use common word definitions as provided by the [Merriam-
  
 ### See also: 
 
-* Merriam-Webster.com dictionary (the Government Publishing Office Style Manual, references “Webster’s Third New International Dictionary”; the online version should be similar) 
+* Merriam-Webster.com dictionary (the Government Publishing Office Style Manual.
+  References “Webster’s Third New International Dictionary”; the online version should be similar) 
 
 * Project Open Data 
 
