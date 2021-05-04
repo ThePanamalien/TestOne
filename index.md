@@ -21,11 +21,13 @@ This glossary is intended to help users understand terms that are commonly used 
 
 **Project Open Data**: 
 
-**Open Government Data Act**: (codification of act definitions: 44 usc 3502) 
+**Open Government Data Act**: 
+(codification of act definitions: 44 usc 3502) 
 
 **Open Data Handbook Glossary** 
 
-**Glossary of Archival and Records Terminology**: (Society of American Archivists, SAA). 
+**Glossary of Archival and Records Terminology**: 
+(Society of American Archivists, SAA). 
 
 **Webopedia Computer and Internet Dictionary**:
 
