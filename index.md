@@ -6,7 +6,7 @@ layout: glossaryPage
 # Alaska Region Annotated Glossary of Data Management Terms 
 ___
 
-
+<div class="homeDetails">
 Terms may have different meanings depending upon the context or discipline in which they are used. The Alaska Region Data Stewardship Team (DST) has compiled the following annotated glossary to assist in understanding terms used in relation to data management. 
 
 
@@ -21,3 +21,5 @@ The DST will attempt to use common word definitions as provided by the [Merriam-
 - Open Data Handbook Glossary 
 - Glossary of Archival and Records Terminology (Society of American Archivists, SAA). 
 - Webopedia Computer and Internet Dictionary
+
+</div>
