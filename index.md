@@ -16,17 +16,17 @@ This glossary is intended to help users understand terms that are commonly used 
 #### See also: 
 
 
-Merriam-Webster.com dictionary 
+**Merriam-Webster.com dictionary**: 
 (The Government Publishing Office Style Manual. References “Webster’s Third New International Dictionary”; the online version should be similar) 
 
-Project Open Data 
+**Project Open Data**: 
 
-Open Government Data Act. (codification of act definitions: 44 usc 3502) 
+**Open Government Data Act**: (codification of act definitions: 44 usc 3502) 
 
-Open Data Handbook Glossary 
+**Open Data Handbook Glossary** 
 
-Glossary of Archival and Records Terminology (Society of American Archivists, SAA). 
+**Glossary of Archival and Records Terminology**: (Society of American Archivists, SAA). 
 
-Webopedia Computer and Internet Dictionary
+**Webopedia Computer and Internet Dictionary**:
 
 ___
