@@ -6,7 +6,6 @@ layout: glossaryPage
 # Alaska Region Annotated Glossary of Data Management Terms 
 ___
 
-<div class="homeDetails">
 Terms may have different meanings depending upon the context or discipline in which they are used. The Alaska Region Data Stewardship Team (DST) has compiled the following annotated glossary to assist in understanding terms used in relation to data management. 
 
 
@@ -14,12 +13,19 @@ The DST will attempt to use common word definitions as provided by the [Merriam-
 
  
 ### See also: 
+___
 
-- Merriam-Webster.com dictionary (the Government Publishing Office Style Manual. References “Webster’s Third New International Dictionary”; the online version should be similar) 
-- Project Open Data 
-- Open Government Data Act. (codification of act definitions: 44 usc 3502) 
-- Open Data Handbook Glossary 
-- Glossary of Archival and Records Terminology (Society of American Archivists, SAA). 
-- Webopedia Computer and Internet Dictionary
+Merriam-Webster.com dictionary 
+(The Government Publishing Office Style Manual. References “Webster’s Third New International Dictionary”; the online version should be similar) 
 
-</div>
+Project Open Data 
+
+Open Government Data Act. (codification of act definitions: 44 usc 3502) 
+
+Open Data Handbook Glossary 
+
+Glossary of Archival and Records Terminology (Society of American Archivists, SAA). 
+
+Webopedia Computer and Internet Dictionary
+
+___
