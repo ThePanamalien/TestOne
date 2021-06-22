@@ -129,8 +129,10 @@ available to support data management.
 The role with ultimate responsibility for ensuring that adequate resources (e.g. staff and funding) are 
 available to support all aspects of data management for data within their scope of responsibility.<br>
 The role having the ultimate authority to: <br>
+<div><div>  
 1) Ensure adequate resources are allocated to complete all aspects of data 
 management and <br>
+<br>  
 2) Ensure compliance with all data goverance polcies.
 </p>
 </details>
