@@ -23,7 +23,9 @@ ISO 19110 defines the methodology for cataloguing feature types.
 It may be used as a basis for defining the universe of discourse being modelled in a particular application,
 or to standardize general aspects of real-world features being modelled in more than one application. 
 (International Organization for Standardization (2016). 
-ISO 19110:2016. Retrieved from: 
+ISO 19110:2016. 
+<br>
+Retrieved from: <a href="https://www.iso.org/standard/57303.html">ISO.org</a>
 
 ADIwg mdJSON and mdEditor use this standard to describe tabular datasets in ISO metadata records. 
 It is not a perfect fit, but it is all that is available for data descriptions in ISO metadata. 
@@ -64,7 +66,7 @@ The metadata required to address coverage data in general is addressed sufficien
 general part of ISO 19115. (International Organization for Standardization (2009). ISO 19115-2:2009. 
 <br>
 <br>
-Retrieved from: <a href="https://www.iso.org/standard/39229.html"></a>
+Retrieved from: <a href="https://www.iso.org/standard/39229.html">ISO.org</a>
 </p>
 </details>
 
