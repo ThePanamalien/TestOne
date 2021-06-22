@@ -14,10 +14,10 @@ meaning is lost. [44 USC 3502(18)](https://uscode.house.gov/view.xhtml?req=granu
   <summary>Click to read full definition!</summary>
 <p>
 **Other policy definitions:**
-
-**POD** “Refers to information or data that is in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost.” 
-
-**OMB M-13-13** _“…data are reasonably structured to allow automated processing.”_
+<br>
+POD: “Refers to information or data that is in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost.” 
+<br>
+OMB M-13-13 - “…data are reasonably structured to allow automated processing.”
 </p>
 </details>
 
