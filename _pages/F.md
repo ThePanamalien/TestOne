@@ -8,7 +8,7 @@ layout: glossaryPage
 ___
  
 ### **FGDC:** 
-Federal Geographic Data Committee (found at [https://www.fgdc.gov/](https://www.fgdc.gov/). 
+Federal Geographic Data Committee - found at [https://www.fgdc.gov/](https://www.fgdc.gov/). 
 
 ___
 
