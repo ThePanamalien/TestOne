@@ -26,7 +26,7 @@ or to standardize general aspects of real-world features being modelled in more 
 ISO 19110:2016. 
 <br>
 Retrieved from: <a href="https://www.iso.org/standard/57303.html">ISO.org</a>
-
+<br>
 ADIwg mdJSON and mdEditor use this standard to describe tabular datasets in ISO metadata records. 
 It is not a perfect fit, but it is all that is available for data descriptions in ISO metadata. 
 </p>
@@ -59,9 +59,11 @@ metadata standard by defining the schema required for describing imagery and gri
 <p>
 It provides information about the properties of the measuring equipment used to acquire the data, the geometry of 
 the measuring process employed by the equipment, and the production process used to digitize the raw data. <br>
+<br>  
 This extension deals with metadata needed to describe the derivation of geographic information from raw data, 
 including the properties of the measuring system, and the numerical methods and computational procedures used 
-in the derivation. <br><br>
+in the derivation. <br>
+<br>
 The metadata required to address coverage data in general is addressed sufficiently in the 
 general part of ISO 19115. (International Organization for Standardization (2009). ISO 19115-2:2009. 
 <br>
